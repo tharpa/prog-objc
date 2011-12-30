@@ -4,7 +4,13 @@
 
 ** Chapter 2
    1. prog2.1.m
-   
+
+      This is a code line:
+      
+      : zoneadm list -cv
+
+      This is an embedded code ~ls -al~
+      
 ** Chapter 13
    1. prog13.16.m
    2. prog13.9.m
